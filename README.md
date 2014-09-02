@@ -11,4 +11,4 @@ Hares are born with fur and their eyes open.
 
 Hares are not kept as house pets.
 
-Like rabbits, hares are brown
+Unlike rabbits, hares are carnivores (meat eaters).
